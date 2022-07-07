@@ -1,6 +1,6 @@
 # Alex Shen
+she/they
 
-she/they\\
 Tutor and Musician,\\
 Edinburgh
 
