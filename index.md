@@ -1,6 +1,6 @@
 # Alex Shen
 
-Tutor and Musician
+Tutor and Musician,\\
 Edinburgh
 
 ## Skills
