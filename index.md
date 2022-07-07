@@ -15,5 +15,5 @@ I hold a Diploma in Performance (Recital) in Piano from the London College of Mu
 Please feel free to reach out with any queries!
 
 ## Contact
-If you'd like to contact me about tutoring, drop me a line at tutoring@shen.ac
+If you'd like to contact me about tutoring, drop me a line at tutoring@shen.ac\\
 For any music-related queries, drop me a line at music@shen.ac
