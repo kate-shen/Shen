@@ -1,5 +1,18 @@
 # Alex Shen
 
 Tutor and Musician
+Edinburgh
 
-## About me
+## Skills
+
+I tutor a wide range of subjects for SQA qualifications; principally Maths, Statistics, Physics, Chemistry, and Biology. 
+I also tutor French, Engineering Science, and Music up to National 5, and English up to Higher. 
+I have experience conducting and accompanying, and I can offer my skills in organ, accompaniment, and piano teaching. 
+I hold a Diploma in Performance (Recital) in Piano from the London College of Music and numerous academic awards and certifications. 
+I also hold a PVG Scheme Membership for working with children and protected adults as part of my current occupation as a medical student. 
+
+Please feel free to reach out with any queries!
+
+## Contact
+If you'd like to contact me about tutoring, drop me a line at tutoring@shen.ac
+For any music-related queries, drop me a line at music@shen.ac
