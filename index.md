@@ -8,7 +8,7 @@ Edinburgh
 
 I tutor a wide range of subjects for SQA qualifications; principally Maths, Statistics, Physics, Chemistry, and Biology. 
 I also tutor French, Engineering Science, and Music up to National 5, and English up to Higher. 
-I also hold a PVG Scheme Membership for working with children and protected adults as part of my current occupation as a medical student. 
+I hold a PVG Scheme Membership for working with children and protected adults as part of my current occupation as a medical student. 
 
 I have experience conducting and accompanying, and I can offer my skills in organ, accompaniment, and piano teaching. 
 
