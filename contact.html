@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>alex shen - shen.ac</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+    <style>
+        body {
+            font-family: "Inconsolata", "Comfortaa", sans-serif;
+            font-weight: 300;
+        }
+    </style>
+    <style>
+        padded_title {
+            padding-left: 0.5em;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- symbols -->
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+    </svg>
+    </symbol>
+    <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+    </symbol>
+    <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+        <line x1="3" y1="12" x2="21" y2="12"></line>
+        <line x1="3" y1="6" x2="21" y2="6"></line>
+        <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+    </symbol>
+    <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+        <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+    </symbol>
+    <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+        <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path>
+        <polyline points="13 2 13 9 20 9"></polyline>
+    </svg>
+    </symbol>
+    </svg>
+    <!-- end symbols -->
+
+    <!-- Sidebar -->
+    <div class="w3-sidebar palest-grey bar-block w3-collapse customcard w3-animate-left" style="width:200px;" id="sidebar">
+        <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">&times;</button>
+        <h4 class="w3-bar-item">shen.ac</h4>
+        <a href="index.html" class="w3-bar-item w3-button" id="navigationlinks">alex shen</a>
+        <a href="contact.html" class="w3-bar-item w3-button" id="navigationlinks">contact me</a>
+        <footer class="site-footer"> site written by <a href="https://shen.ac/">alex shen</a> </footer>
+    </div>
+
+    <!-- Page Content -->
+    <div class="w3-main" style="margin-left:200px">
+        <div class="pale-grey" id="top_padding">
+            <button class="w3-button w3-xlarge w3-hide-large" onclick="w3_open()">&#9776;</button>
+            <padded_title class="w3-large w3-hide-large">shen.ac</padded_title>
+        </div>
+        <div id="main-content" class="main-content-wrap w3-main">
+            <div id="main-content" class="main-content" role="main">
+                <h1 id="contact-me">
+                    <a href="#contact-me" class="anchor-heading" aria-labelledby="contact-me">
+                        <svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg>
+                    </a>contact me</h1>
+                <p>Please feel free to reach out with anything you'd like to ask!</p>
+                <div style="display: none;">
+                    This shouldn't be displayed. If you can see this, please contact me. <a href="spam@shen.ac">spam@shen.ac</a> is the email spam should be routed to.
+                </div>
+                <h2 id="tutoring-and-music">
+                    <a href="#tutoring-and-music" class="anchor-heading" aria-labelledby="tutoring-and-music">
+                        <svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg>
+                    </a>tutoring and music</h2>
+                <p>If you'd like to contact me specifically about tutoring, drop me a line at <a href="mailto:tutoring@shen.ac">tutoring@shen.ac</a></p>
+                <p>For any music-related queries, drop me a line at <a href="mailto:music@shen.ac">music@shen.ac</a></p>
+                <h2 id="general-enquiries">
+                    <a href="#general-enquiries" class="anchor-heading" aria-labelledby="general-enquiries">
+                        <svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg>
+                    </a>general enquiries</h2>
+                <p>If you'd like information or have an enquiry, email <a href="mailto:alex@shen.ac">info@shen.ac</a></p>
+                <p>If you'd like to talk about anything else, you can reach me at <a href="mailto:alex@shen.ac">alex@shen.ac</a></p>
+                I'll get back to you as soon as possible regardless of how you get in touch!
+            </div>
+        </div>
+
+        <!-- sidebar script -->
+        <script>
+            function w3_open() {
+                document.getElementById("sidebar").style.display = "block";
+            }
+
+            function w3_close() {
+                document.getElementById("sidebar").style.display = "none";
+            }
+        </script>
+</body>
+
+</html>
